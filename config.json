@@ -12,9 +12,9 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "",
-    "PREFIX": "!",
+    "PREFIX": "=",
     "ADMINBOT": [
-        "UIDFacebook"
+        "100056335523144"
     ],
     "DATABASE": {
         "sqlite": {
